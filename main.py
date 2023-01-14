@@ -36,5 +36,5 @@ def page_skills(skill):
 
 # app.add_url_rule('/', view_func=page_index)
 
-app.run(debug=True)
+app.run()
 
